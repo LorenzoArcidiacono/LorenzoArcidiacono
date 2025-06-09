@@ -172,5 +172,6 @@ Here are some ideas to get you started:
 </p>
 
 </br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoArcidiacono&theme=tokyonight" alt="mystreak"/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoArcidiacono&theme=tokyonight" alt="mystreak"/>
+</div>
