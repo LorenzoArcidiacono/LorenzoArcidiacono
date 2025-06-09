@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **LorenzoArcidiacono/LorenzoArcidiacono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoArcidiacono&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoArcidiacono&theme=tokyonight" alt="mystreak"/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-it/track/3bnVBN67NBEzedqQuWrpP4?si=60c3c91decbd4ff6)
